@@ -17,6 +17,10 @@ Italian language for Get Simple 3.4 CMS
  */
 
 
+THANKS TO:
+==========
+Roberto Rossi |  https://github.com/robertorossi73 (GS v3.3)
+g438.it |  http://g438.it (GS v3.2)
 
 LICENSE:
 ========
