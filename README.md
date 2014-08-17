@@ -1,7 +1,7 @@
-GS_3.2_it
+GS_3.4_it
 =========
 
-Italian language for Get Simple 3.2 CMS
+Italian language for Get Simple 3.4 CMS
 
 
 /**
